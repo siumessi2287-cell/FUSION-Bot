@@ -1,11 +1,3 @@
-<<<<<<< HEAD
 vkbottle
 gspread
 oauth2client
-python-dateutil
-=======
-vkbottle
-gspread
-oauth2client
-python-dateutil
->>>>>>> f1f4307 (fix render)
