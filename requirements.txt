@@ -1,0 +1,4 @@
+vkbottle
+gspread
+oauth2client
+python-dateutil
